@@ -1,1 +1,1 @@
-# EDA-Technical-Challnege
+# EDA-Technical-Challenge
